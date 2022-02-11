@@ -268,3 +268,30 @@ JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStat
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1644574356240	geckodriver	INFO	Listening on 127.0.0.1:40179
+1644574356246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58419" "-no-remote" "-profile" "/tmp/rust_mozprofilekp7W8Q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644574356879	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekp7W8Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58419/devtools/browser/19a45651-852a-4aad-9cc8-28b97171e867
+1644574358125	Marionette	INFO	Listening on port 40351
+1644574358162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-dom
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/react-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/MainTabbedArea
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeView
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: json-viewer
+http://requirejs.org/docs/errors.html#scripterror
