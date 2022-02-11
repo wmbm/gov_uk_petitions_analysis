@@ -1,0 +1,11 @@
+Development
+-----------
+
+automate finding of total pages number
+
+requirements file for dependencies
+
+headless mode option for efficiency
+
+don't scrape if file already present (overwrite option)
+
