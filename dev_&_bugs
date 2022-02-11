@@ -1,11 +1,15 @@
 Development
 -----------
 
-automate finding of total pages number
+automate finding of total pages number X
 
 requirements file for dependencies
 
-headless mode option for efficiency
+headless mode option for efficiency X
+
+create directory if not already present X
 
 don't scrape if file already present (overwrite option)
+
+seperate code in to more defined files X
 
