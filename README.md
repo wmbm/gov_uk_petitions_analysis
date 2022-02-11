@@ -3,9 +3,9 @@ A Jupyter notebook analysis of the publicly available data regarding the outcome
 
 Code summary
 ------------
-scrape_and_update.ipynb - to collect the data to your machine
-EDA.ipynb               - exploratory data analysis file
-petition_utils.ipynb    - useful tools for data handling
+- scrape_and_update.ipynb - to collect the data to your machine
+- EDA.ipynb               - exploratory data analysis file
+- petition_utils.ipynb    - useful tools for data handling
 
 White paper can be found here
 https://docs.google.com/document/d/10Jwlb_DFvXEYgMR6K7dS4BjV7oHa4ydoQ4kUJW4yldw/edit
